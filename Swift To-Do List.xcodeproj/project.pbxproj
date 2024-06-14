@@ -52,8 +52,7 @@
 		3F1A3ACC2C1CB61100C4B033 /* Swift To-Do List */ = {
 			isa = PBXGroup;
 			children = (
-				3F1A3ACD2C1CB61100C4B033 /* Swift_To_Do_ListApp.swift */,
-				3F1A3ACF2C1CB61100C4B033 /* ContentView.swift */,
+				3F1A3ADD2C1CB71A00C4B033 /* Source */,
 				3F1A3AD12C1CB61200C4B033 /* Assets.xcassets */,
 				3F1A3AD62C1CB61200C4B033 /* Swift_To_Do_List.entitlements */,
 				3F1A3AD32C1CB61200C4B033 /* Preview Content */,
@@ -67,6 +66,15 @@
 				3F1A3AD42C1CB61200C4B033 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3F1A3ADD2C1CB71A00C4B033 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				3F1A3ACF2C1CB61100C4B033 /* ContentView.swift */,
+				3F1A3ACD2C1CB61100C4B033 /* Swift_To_Do_ListApp.swift */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
